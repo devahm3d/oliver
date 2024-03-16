@@ -59,7 +59,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/DadOliver"
+            text="• مطوࢪين السورس •", url="https://t.me/R1_O9"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
@@ -79,7 +79,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/DadOliver"
+            text="• مطوࢪين السورس •", url="https://t.me/R1_O9"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
